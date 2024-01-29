@@ -1,0 +1,3 @@
+Cinemagic project
+
+client-server
