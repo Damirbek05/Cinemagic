@@ -1,0 +1,1 @@
+# Cinemagic MERN stack project
