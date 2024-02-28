@@ -9,3 +9,9 @@ Cinemagic is a platform that allows users to discover information about movies a
 *  Watch Movies and TV Series: Cinemagic provides a platform for users to watch selected movies and TV series.
 *  Favorites: Users can mark movies and TV series as favorites for quick access.
 *  User Dashboard: Users have a personalized dashboard that displays their favorite content and allows them to manage their account settings.
+## Technologies Used
+*  Frontend: React.js, Redux for state management, Axios for API calls
+*  Backend: Node.js, Express.js
+*  Database: MongoDB for storing user data
+*  Authentication: JSON Web Tokens (JWT)
+*  
